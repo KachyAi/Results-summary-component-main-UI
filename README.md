@@ -40,6 +40,5 @@ but it didn't work, We learn Everyday!
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@KachyAi](https://www.frontendmentor.io/profile/@KachyAi)
 - Twitter - [@KachyAi](https://www.twitter.com/@KachyAi)
